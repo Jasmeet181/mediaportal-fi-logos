@@ -30,6 +30,9 @@
       <Item Name="Estradi">
         <Provider>Full Name (FI)</Provider>
       </Item>
+      <Item Name="Estradi 2020">
+        <Provider>Full Name (FI)</Provider>
+      </Item>
       <File>Estradi.png</File>
     </Channel>
     <Channel>
