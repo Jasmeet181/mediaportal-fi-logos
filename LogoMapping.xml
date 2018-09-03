@@ -114,12 +114,6 @@
       <File>TV5.png</File>
     </Channel>
     <Channel>
-      <Item Name="Viacom Channel">
-        <Provider>Full Name (FI)</Provider>
-      </Item>
-      <File>Viacom International Media Networks.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Yle Teema &amp; Fem">
         <Provider>Digita</Provider>
       </Item>
