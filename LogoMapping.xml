@@ -1,157 +1,157 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
-  <!-- ******************************************************************** -->
-  <TV>
-    <Channel>
-      <Item Name="Aito Iskelmä Harju &amp; Pöntinen">
-        <Provider>Full Name (FI)</Provider>
-      </Item>
-      <File>Aito Iskelma Harju and Pontinen.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="AlfaTV">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>AlfaTV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="AVA">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>AVA.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="0700 1 1111 Deitti">
-        <Provider>Full Name (FI)</Provider>
-      </Item>
-      <File>Digiviihde.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Estradi">
-        <Provider>Full Name (FI)</Provider>
-      </Item>
-      <Item Name="Estradi 2020">
-        <Provider>Full Name (FI)</Provider>
-      </Item>
-      <File>Estradi.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Fox">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Fox.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Frii">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Frii.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Hero">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Hero.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Jim">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Jim.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Kutonen">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Kutonen.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Liv">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Liv.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MTV3">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>MTV3.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="National Geographic">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>National Geographic.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Nelonen">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Nelonen.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Nelonen HD">
-        <Provider>Full Name (FI)</Provider>
-      </Item>
-      <File>Nelonen HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sub">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Sub.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TLC">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>TLC.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV5">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>TV5.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Yle Teema &amp; Fem">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Yle Teema and Fem.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Yle TV1">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Yle TV1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Yle TV2">
-        <Provider>Digita</Provider>
-      </Item>
-      <File>Yle TV2.png</File>
-    </Channel>
-  </TV>
-  <!-- ******************************************************************** -->
-  <Radio>
-    <Channel>
-      <Item Name="Yle Klassinen">
-        <Provider>Full Name (FI)</Provider>
-      </Item>
-      <File>Yle Klassinen.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Yle Mondo">
-        <Provider>Full Name (FI)</Provider>
-      </Item>
-      <File>Yle Mondo.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Yle Puhe">
-        <Provider>Full Name (FI)</Provider>
-      </Item>
-      <File>Yle Puhe.png</File>
-    </Channel>
-  </Radio>
-  <!-- ******************************************************************** -->
+<!-- ******************************************************************** -->
+	<TV>
+		<Channel>
+			<Item Name="Aito Iskelmä Harju &amp; Pöntinen">
+				<Provider>Full Name (FI)</Provider>
+			</Item>
+			<File>Aito Iskelma Harju and Pontinen.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="AlfaTV">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>AlfaTV.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="AVA">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>AVA.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="0700 1 1111 Deitti">
+				<Provider>Full Name (FI)</Provider>
+			</Item>
+			<File>Digiviihde.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Estradi">
+				<Provider>Full Name (FI)</Provider>
+			</Item>
+			<Item Name="Estradi 2020">
+				<Provider>Full Name (FI)</Provider>
+			</Item>
+			<File>Estradi.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Fox">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Fox.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Frii">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Frii.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Hero">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Hero.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Jim">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Jim.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Kutonen">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Kutonen.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Liv">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Liv.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="MTV3">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>MTV3.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="National Geographic">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>National Geographic.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Nelonen">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Nelonen.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Nelonen HD">
+				<Provider>Full Name (FI)</Provider>
+			</Item>
+			<File>Nelonen HD.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Sub">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Sub.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="TLC">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>TLC.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="TV5">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>TV5.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Yle Teema &amp; Fem">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Yle Teema and Fem.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Yle TV1">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Yle TV1.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Yle TV2">
+				<Provider>Digita</Provider>
+			</Item>
+			<File>Yle TV2.png</File>
+		<Channel>
+	</TV>
+<!-- ******************************************************************** -->
+	<Radio>
+		<Channel>
+			<Item Name="Yle Klassinen">
+				<Provider>Full Name (FI)</Provider>
+			</Item>
+			<File>Yle Klassinen.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Yle Mondo">
+				<Provider>Full Name (FI)</Provider>
+			</Item>
+			<File>Yle Mondo.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Yle Puhe">
+				<Provider>Full Name (FI)</Provider>
+			</Item>
+			<File>Yle Puhe.png</File>
+		<Channel>
+	</Radio>
+<!-- ******************************************************************** -->
 </Mappings>
